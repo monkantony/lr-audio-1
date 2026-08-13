@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>Le Random Editorials</title>
+  <link>https://www.lerandom.art/editorials</link>
+  <language>en-us</language>
+  <description>Audio editions of Le Random editorials, voiced by AI with the LR Pod theme by Rami Awad</description>
+  <itunes:summary>Audio editions of Le Random editorials, voiced by AI with the LR Pod theme by Rami Awad</itunes:summary>
+  <itunes:author>Le Random</itunes:author>
+  <itunes:owner><itunes:name>Le Random</itunes:name><itunes:email>peter@lerandom.art</itunes:email></itunes:owner>
+  <itunes:image href="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/cover.jpg"/>
+  <itunes:category text="Arts"><itunes:category text="Visual Arts"/></itunes:category>
+  <itunes:explicit>true</itunes:explicit>
+  <item>
+   <title>Jared Madere and fairybaby on VVV and the World as Material</title>
+   <guid isPermaLink="false">lerandom-editorial-149</guid>
+   <link>https://www.lerandom.art/editorial/jared-madere-and-fairybaby-on-vvv-and-the-world-as-material</link>
+   <pubDate>Mon, 10 Aug 2026 09:00:00 +0000</pubDate>
+   <description>Jared Madere and fairybaby, co-founders of VVV, speak with Peter Bauman (Monk Antony) about the artist-led platform&#x27;s origin and philosophy, as well as Rare Weitsmans, its first official release. The creators explain how their shared aesthetic led them to build an alternative to generic minting tools and to reimagine how artists can raise.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-media/main/audio/149.mp3" length="0" type="audio/mp4"/>
+   <itunes:duration>1277</itunes:duration>
+   <itunes:episode>149</itunes:episode>
+  </item>
+  <item>
+   <title>Justin Aversano on Heart and Light</title>
+   <guid isPermaLink="false">lerandom-editorial-144</guid>
+   <link>https://www.lerandom.art/editorial/justin-aversano-on-heart-and-light</link>
+   <pubDate>Mon, 06 Jul 2026 09:00:00 +0000</pubDate>
+   <description>Artist Justin Aversano speaks with Peter Bauman (Monk Antony) about a creative practice built on discipline, systems, lenses, people and technology. They discuss how Aversano’s strict self-imposed rules transform the act of creation into a spiritual ritual.
+
+They speak on the occasion of the artist’s solo exhibition, Moments of the Unknown, on view at Nguyen Wahed in New York until July 11, 2026, curated by Marlene Corbun.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/144.m4a" length="5513053" type="audio/mp4"/>
+   <itunes:duration>685</itunes:duration>
+   <itunes:episode>144</itunes:episode>
+  </item>
+  <item>
+   <title>Evil Biscuit on card nft 2, Destruction &amp; Rebirth</title>
+   <guid isPermaLink="false">lerandom-editorial-139</guid>
+   <link>https://www.lerandom.art/editorial/evil-biscuit-on-card-nft-2-destruction-rebirth</link>
+   <pubDate>Mon, 08 Jun 2026 09:00:00 +0000</pubDate>
+   <description>Artist Evil Biscuit spoke with Peter Bauman (Monk Antony) before the release of card nft 2, the artist’s trading-card-game-inspired project, first appearing with SOLOS Gallery at Felix Art Fair in February 2026. They discuss the project&#x27;s evolution from card nft, Biscuit&#x27;s digital-to-physical process, and how the work&#x27;s emphasis on destruction and rebirth is material as much as conceptual.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/139.m4a" length="9387638" type="audio/mp4"/>
+   <itunes:duration>1171</itunes:duration>
+   <itunes:episode>139</itunes:episode>
+  </item>
+  <item>
+   <title>Jakob Kudsk Steensen on Non-Human Pathways</title>
+   <guid isPermaLink="false">lerandom-editorial-137</guid>
+   <link>https://www.lerandom.art/editorial/jakob-kudsk-steensen-on-non-human-pathways</link>
+   <pubDate>Mon, 25 May 2026 09:00:00 +0000</pubDate>
+   <description>Virtual worldbuilding artist Jakob Kudsk Steensen speaks with Peter Bauman (Monk Antony) about the centrality of fieldwork and process to his practice. They discuss archiving vanishing environments in virtual worlds, the play between structure and daydream in his creative process and the embodied sensibility behind Steensen’s slow, textured approach to digital worldbuilding. An exhibition of his work, Otherworlds, is on view at Phi (Montreal) through September 13, 2026.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/137.m4a" length="9135493" type="audio/mp4"/>
+   <itunes:duration>1113</itunes:duration>
+   <itunes:episode>137</itunes:episode>
+  </item>
+  <item>
+   <title>Jane Veeder on Loving Change</title>
+   <guid isPermaLink="false">lerandom-editorial-133</guid>
+   <link>https://www.lerandom.art/editorial/jane-veeder-on-loving-change</link>
+   <pubDate>Mon, 27 Apr 2026 09:00:00 +0000</pubDate>
+   <description>Jane Veeder began her career in electronic media arts in 1976 and became a member of the pioneering Chicago computer graphics community and EVL. Her computer-animation Montana (1982) is part of MoMA&#x27;s video collection. Veeder spoke with her longtime friend from the Chicago new media scene, Copper Giloth, as well as Peter Bauman. They cover her path from ceramic sculpture to analog video with Phil Morton to real-time computer animation. Veeder&#x27;s interactive experiments on the Zgrass machine&#x27;s repurposed video game hardware anticipated by decades the game-engine-driven world-building that now anchors major museum collections and biennials.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/133.m4a" length="8124009" type="audio/mp4"/>
+   <itunes:duration>1000</itunes:duration>
+   <itunes:episode>133</itunes:episode>
+  </item>
+  <item>
+   <title>Embodying AI at NeurIPS 2025: Creative AI Track</title>
+   <guid isPermaLink="false">lerandom-editorial-117</guid>
+   <link>https://www.lerandom.art/editorial/embodying-ai-at-neurips-2025-creative-ai-track</link>
+   <pubDate>Tue, 06 Jan 2026 09:00:00 +0000</pubDate>
+   <description>Luba Elliott co-chaired the Creative AI Track at NeurIPS 2025, one of the most important annual academic conferences on AI. The track presented 93 academic papers and artworks, exploring cutting-edge applications of AI across art and broader creative practices. Here, Elliott interviews the artists behind two standout projects from the conference. She speaks with Ethan Chang and Quincy Kuang, who presented The Stochastic Parrot, a physical AI cohabitant. Then she exchanges with Jenn Leung and Chloe Loewith, authors of Assembloid Agency, an open-source Unreal Engine plugin that connects living neurons grown on a “brain-on-a-chip” to a 3D game world.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/117.m4a" length="10508442" type="audio/mp4"/>
+   <itunes:duration>1294</itunes:duration>
+   <itunes:episode>117</itunes:episode>
+  </item>
+  <item>
+   <title>Eli Scheinman on Amplifying the Digital</title>
+   <guid isPermaLink="false">lerandom-editorial-111</guid>
+   <link>https://www.lerandom.art/editorial/eli-scheinman-on-amplifying-the-digital</link>
+   <pubDate>Wed, 03 Dec 2025 09:00:00 +0000</pubDate>
+   <description>Eli Scheinman, inaugural curator of Art Basel’s Zero 10—a 1,000-square-meter space dedicated to digital art at Art Basel Miami Beach—speaks with Peter Bauman (Monk Antony). They discuss how Zero 10 marks a long-term commitment to making digital art legible to all collectors, while amplifying the ecosystem’s own norms, histories and eccentricities.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/111.m4a" length="5484266" type="audio/mp4"/>
+   <itunes:duration>676</itunes:duration>
+   <itunes:episode>111</itunes:episode>
+  </item>
+  <item>
+   <title>Holly Herndon &amp; Mat Dryhurst on Artificial Psychedelia</title>
+   <guid isPermaLink="false">lerandom-editorial-110</guid>
+   <link>https://www.lerandom.art/editorial/holly-herndon-mat-dryhurst-on-artificial-psychedelia</link>
+   <pubDate>Mon, 24 Nov 2025 09:00:00 +0000</pubDate>
+   <description>Artist duo Holly Herndon and Mat Dryhurst spoke with Peter Bauman (Monk Antony) about their major new work Starmirror at KW Institute for Contemporary Art, Berlin, on view until January 18, 2026. They discuss the work within the larger context of protocols as worlds, AI’s impact on public space, and the blurring line between artists and scientists.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/110.m4a" length="9961297" type="audio/mp4"/>
+   <itunes:duration>1228</itunes:duration>
+   <itunes:episode>110</itunes:episode>
+  </item>
+  <item>
+   <title>Claudia Hart on Land of the Dead</title>
+   <guid isPermaLink="false">lerandom-editorial-105</guid>
+   <link>https://www.lerandom.art/editorial/claudia-hart-on-land-of-the-dead</link>
+   <pubDate>Mon, 27 Oct 2025 09:00:00 +0000</pubDate>
+   <description>In the midst of a rich, decades-long career, media artist Claudia Hart’s work and contributions are receiving more light with three 2025 shows, including a museum retrospective and solo gallery show. The artist speaks with Peter Bauman (Monk Antony) about the uncanny “land of the dead, halfway between alive and dead” at the heart of her practice, where technology, trauma and art history converge.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/105.m4a" length="5325087" type="audio/mp4"/>
+   <itunes:duration>658</itunes:duration>
+   <itunes:episode>105</itunes:episode>
+  </item>
+  <item>
+   <title>Copper Giloth on Video Games to Video Art</title>
+   <guid isPermaLink="false">lerandom-editorial-100</guid>
+   <link>https://www.lerandom.art/editorial/copper-giloth-on-video-games-to-video-art</link>
+   <pubDate>Mon, 22 Sep 2025 09:00:00 +0000</pubDate>
+   <description>Copper Giloth is an artist and professor whose earliest work was among the pioneering efforts in the then-nascent field of computer-video art. She speaks with Peter Bauman (Monk Antony) about her late 1970s interventions with early video game systems to make video art and how these experiments shaped her decades-long practice.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/100.m4a" length="6114089" type="audio/mp4"/>
+   <itunes:duration>756</itunes:duration>
+   <itunes:episode>100</itunes:episode>
+  </item>
+  <item>
+   <title>Juan Rodríguez García on Inhabiting the Moment</title>
+   <guid isPermaLink="false">lerandom-editorial-096</guid>
+   <link>https://www.lerandom.art/editorial/juan-rodriguez-garcia-on-inhabiting-the-moment</link>
+   <pubDate>Mon, 25 Aug 2025 09:00:00 +0000</pubDate>
+   <description>Artist Juan Rodríguez García speaks with Sofia Garcia about Habitar un Momento, a generative system commissioned by Le Random that explores impermanence and contemplation through real-time animation. The discussion covers the artist’s architectural roots, shift toward creative coding and view of the piece as a “living entity.” Originally conducted in Spanish, the interview is presented here in English translation.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/096.m4a" length="4998518" type="audio/mp4"/>
+   <itunes:duration>618</itunes:duration>
+   <itunes:episode>96</itunes:episode>
+  </item>
+  <item>
+   <title>Hito Steyerl on How It Uses Us</title>
+   <guid isPermaLink="false">lerandom-editorial-091</guid>
+   <link>https://www.lerandom.art/editorial/hito-steyerl-on-how-it-uses-us</link>
+   <pubDate>Mon, 21 Jul 2025 09:00:00 +0000</pubDate>
+   <description>Artist and theorist Hito Steyerl discusses the material and geopolitical stakes of AI-generated imagery with Peter Bauman (Monk Antony). They explore the structural power of machine learning industries, the automation of creative labor and how art is both implicated in and resistant to these transformations.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/091.m4a" length="3766705" type="audio/mp4"/>
+   <itunes:duration>463</itunes:duration>
+   <itunes:episode>91</itunes:episode>
+  </item>
+  <item>
+   <title>DEAFBEEF on Vernacular in a Standardized Age</title>
+   <guid isPermaLink="false">lerandom-editorial-090</guid>
+   <link>https://www.lerandom.art/editorial/deafbeef-on-vernacular-in-a-standardized-age</link>
+   <pubDate>Mon, 14 Jul 2025 09:00:00 +0000</pubDate>
+   <description>DEAFBEEF is participating in the group show Infinite Images at the Toledo Museum of Art. In a conversation with Peter Bauman (Monk Antony), the artist reflects on translating his code-based practice into the forged-iron, tactile sculpture Glitchbox. He explores how physical labor, material constraints and embodied interaction reveal facets of generative systems that purely digital works can’t capture.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/090.m4a" length="4481807" type="audio/mp4"/>
+   <itunes:duration>550</itunes:duration>
+   <itunes:episode>90</itunes:episode>
+  </item>
+  <item>
+   <title>Beeple on Infinite Creation Machines</title>
+   <guid isPermaLink="false">lerandom-editorial-087</guid>
+   <link>https://www.lerandom.art/editorial/beeple-on-infinite-creation-machines</link>
+   <pubDate>Tue, 17 Jun 2025 09:00:00 +0000</pubDate>
+   <description>Mike Winkelmann (Beeple) speaks with Peter Bauman (Monk Antony) about what motivates the artist—known for his Everydays sketches—to engage with generativity and modern AI’s deep learning tools.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/087.m4a" length="11416662" type="audio/mp4"/>
+   <itunes:duration>1394</itunes:duration>
+   <itunes:episode>87</itunes:episode>
+  </item>
+  <item>
+   <title>A Mean Defense</title>
+   <guid isPermaLink="false">lerandom-editorial-083</guid>
+   <link>https://www.lerandom.art/editorial/a-mean-defense</link>
+   <pubDate>Mon, 19 May 2025 09:00:00 +0000</pubDate>
+   <description>Peter Bauman (Monk Antony) questions the common perception that generative AI art is inherently &quot;average&quot; or derivative. He considers how artists use images to make meaning in 2025 when new methods and tools flood the visual landscape and individual images lose their weight. Has critical discourse kept pace? Or is the backlash repeating average metaphors?</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/083.m4a" length="6753568" type="audio/mp4"/>
+   <itunes:duration>821</itunes:duration>
+   <itunes:episode>83</itunes:episode>
+  </item>
+  <item>
+   <title>Christiane Paul on Defining AI Art</title>
+   <guid isPermaLink="false">lerandom-editorial-079</guid>
+   <link>https://www.lerandom.art/editorial/christiane-paul-on-defining-ai-art</link>
+   <pubDate>Wed, 23 Apr 2025 09:00:00 +0000</pubDate>
+   <description>Christiane Paul curated the Whitney Museum of American Art&#x27;s Marina Zurkow: Parting Worlds / Hyundai Terrace Commission: Marina Zurkow. Peter Bauman (Monk Antony) spoke with Paul about the exhibition and how Zurkow’s ecologically attuned practice engages with site specificity. Paul also gives a definition of AI art before covering broader questions of art’s pace, technological criticality and the cyclical relationship between institutions and the art market.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/079.m4a" length="8579470" type="audio/mp4"/>
+   <itunes:duration>1054</itunes:duration>
+   <itunes:episode>79</itunes:episode>
+  </item>
+  <item>
+   <title>A. Michael Noll on When It All Started</title>
+   <guid isPermaLink="false">lerandom-editorial-078</guid>
+   <link>https://www.lerandom.art/editorial/a-michael-noll-on-when-it-all-started</link>
+   <pubDate>Tue, 25 Mar 2025 09:00:00 +0000</pubDate>
+   <description>Among the earliest to engage with digital technology in art, Dr. A. Michael Noll spoke with Peter Bauman (Monk Antony) about his now-legendary years at Bell Labs in the early 1960s—when it all started. First, we present a text written by Dr. Noll himself, followed by an edited version of their conversation.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-2/main/078.m4a" length="8443181" type="audio/mp4"/>
+   <itunes:duration>1042</itunes:duration>
+   <itunes:episode>78</itunes:episode>
+  </item>
+  <item>
+   <title>Joan Heemskerk on Quantum Web4</title>
+   <guid isPermaLink="false">lerandom-editorial-059</guid>
+   <link>https://www.lerandom.art/editorial/joan-heemskerk-on-quantum-web4</link>
+   <pubDate>Tue, 10 Sep 2024 09:00:00 +0000</pubDate>
+   <description>Joan Heemskerk of the renowned net.art duo JODI undertook a two-month residency between CERN—the birthplace of the World Wide Web—and Copenhagen Contemporary. The resulting work will be part of a show at Copenhagen Contemporary in 2025. Heemskerk spoke to Peter Bauman (Monk Antony) about the residency and its impact on her practice. They also discuss her interest in quantum computing, Web4 and the continued evolution of the web.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/059.m4a" length="9698121" type="audio/mp4"/>
+   <itunes:duration>1210</itunes:duration>
+   <itunes:episode>59</itunes:episode>
+  </item>
+  <item>
+   <title>Casey Reas, Lauren Lee McCarthy &amp; Chandler McWilliams on Expanding Software</title>
+   <guid isPermaLink="false">lerandom-editorial-058</guid>
+   <link>https://www.lerandom.art/editorial/casey-reas-lauren-lee-mccarthy-chandler-mcwilliams-on-expanding-software</link>
+   <pubDate>Tue, 20 Aug 2024 09:00:00 +0000</pubDate>
+   <description>Chandler McWilliams of UCLA Arts Conditional Studio is presenting Art and the Internet in LA, a Getty Pacific Standard Time [PST] exhibition in October. The exhibition is informed by the Mirror archive, a collaboration between Casey Reas, Lauren Lee McCarthy and McWilliams. Peter Bauman (Monk Antony) spoke with the trio about how digital technologies intersect with art and society along with the importance of preserving the history of Internet-based art.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/058.m4a" length="6665348" type="audio/mp4"/>
+   <itunes:duration>826</itunes:duration>
+   <itunes:episode>58</itunes:episode>
+  </item>
+  <item>
+   <title>John Maeda on Computational Evolution</title>
+   <guid isPermaLink="false">lerandom-editorial-054</guid>
+   <link>https://www.lerandom.art/editorial/john-maeda-on-computational-evolution</link>
+   <pubDate>Mon, 22 Jul 2024 09:00:00 +0000</pubDate>
+   <description>John Maeda discusses his multifaceted identity as a technologist, artist and designer with Peter Bauman (Monk Antony). Maeda emphasizes the importance of a multidisciplinary approach to innovation and creativity, while reflecting on the transforming needs of artists in the age of AI.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/054.m4a" length="5408683" type="audio/mp4"/>
+   <itunes:duration>673</itunes:duration>
+   <itunes:episode>54</itunes:episode>
+  </item>
+  <item>
+   <title>Frieder Nake on “Machinic” Miracles</title>
+   <guid isPermaLink="false">lerandom-editorial-052</guid>
+   <link>https://www.lerandom.art/editorial/frieder-nake-on-machinic-miracles</link>
+   <pubDate>Wed, 10 Jul 2024 09:00:00 +0000</pubDate>
+   <description>Prior to the Herbert W. Franke Foundation’s Generative Art Summit Berlin, Frieder Nake, one of digital art’s first-ever practitioners, spoke with Peter Bauman (Monk Antony). They cover the very origins of algorithmic art, Nake’s role and its evolution to today.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/052.m4a" length="8659163" type="audio/mp4"/>
+   <itunes:duration>1072</itunes:duration>
+   <itunes:episode>52</itunes:episode>
+  </item>
+  <item>
+   <title>Jason Bailey, Georg Bak &amp; Kate Vass on the Art Form of Our Generation</title>
+   <guid isPermaLink="false">lerandom-editorial-046</guid>
+   <link>https://www.lerandom.art/editorial/jason-bailey-georg-bak-kate-vass-on-the-art-form-of-our-generation</link>
+   <pubDate>Wed, 29 May 2024 09:00:00 +0000</pubDate>
+   <description>The exhibition Automat und Mensch: A History of AI and Generative Art in May 2019 anticipated the arrival of AI and generative art. Five years later, Peter Bauman reached out to the show’s gallerist, Kate Vass, and curators, Jason Bailey and Georg Bak, to reflect on the audacious show’s impact and the future it pointed towards.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/046.m4a" length="7413212" type="audio/mp4"/>
+   <itunes:duration>911</itunes:duration>
+   <itunes:episode>46</itunes:episode>
+  </item>
+  <item>
+   <title>Jen Lowe and Patricio González Vivo on Democratizing Knowledge</title>
+   <guid isPermaLink="false">lerandom-editorial-045</guid>
+   <link>https://www.lerandom.art/editorial/jen-lowe-and-patricio-gonzalez-vivo-on-democratizing-knowledge</link>
+   <pubDate>Tue, 21 May 2024 09:00:00 +0000</pubDate>
+   <description>The co-authors of The Book of Shaders join Peter Bauman (Monk Antony) to discuss the book’s impetus and impact. They also explore how algorithms serve as a dialogue between artists across time.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/045.m4a" length="6852455" type="audio/mp4"/>
+   <itunes:duration>847</itunes:duration>
+   <itunes:episode>45</itunes:episode>
+  </item>
+  <item>
+   <title>Colette Bangert on Growing Visually</title>
+   <guid isPermaLink="false">lerandom-editorial-044</guid>
+   <link>https://www.lerandom.art/editorial/colette-bangert-on-growing-visually</link>
+   <pubDate>Tue, 07 May 2024 09:00:00 +0000</pubDate>
+   <description>With work in the collections of the Museum of Modern Art, Los Angeles County Museum of Art, Victoria and Albert Museum and more, the acclaimed nonagenarian artist Colette Bangert spoke to Peter Bauman (Monk Antony) about a life spent observing, exploring and collaborating.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/044.m4a" length="4555680" type="audio/mp4"/>
+   <itunes:duration>560</itunes:duration>
+   <itunes:episode>44</itunes:episode>
+  </item>
+  <item>
+   <title>Christiane Paul on Curating Cohen’s AARON</title>
+   <guid isPermaLink="false">lerandom-editorial-029</guid>
+   <link>https://www.lerandom.art/editorial/christiane-paul-on-curating-cohens-aaron</link>
+   <pubDate>Mon, 29 Jan 2024 09:00:00 +0000</pubDate>
+   <description>Christiane Paul&#x27;s curation of the Whitney&#x27;s Harold Cohen: AARON informs a conversation with Peter Bauman (Monk Antony), where they discuss Cohen&#x27;s persistent impact to this day while reflecting on the nature of digital expression.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/029.m4a" length="11199373" type="audio/mp4"/>
+   <itunes:duration>1379</itunes:duration>
+   <itunes:episode>29</itunes:episode>
+  </item>
+  <item>
+   <title>Golan Levin on the Potentiality of Blobs</title>
+   <guid isPermaLink="false">lerandom-editorial-026</guid>
+   <link>https://www.lerandom.art/editorial/golan-levin-on-the-potentiality-of-blobs</link>
+   <pubDate>Wed, 10 Jan 2024 09:00:00 +0000</pubDate>
+   <description>Artist and educator Golan Levin dips between anecdote and insight with Monk Antony (Peter Bauman), covering Levin&#x27;s Art Blocks Curated release Cytographia, his drive to unleash the latent capabilities of computers and his role inspiring and promoting open-source art toolkits.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/026.m4a" length="11269683" type="audio/mp4"/>
+   <itunes:duration>1374</itunes:duration>
+   <itunes:episode>26</itunes:episode>
+  </item>
+  <item>
+   <title>DEAFBEEF on (Im)permanence</title>
+   <guid isPermaLink="false">lerandom-editorial-013</guid>
+   <link>https://www.lerandom.art/editorial/deafbeef-on-impermanence</link>
+   <pubDate>Wed, 20 Sep 2023 09:00:00 +0000</pubDate>
+   <description>DEAFBEEF reflects on themes such as the tension between permanence and impermanence in his work HASHMARKS, released through Bright Moments. He also ruminates with Peter Bauman (Monk Antony) on celebrating the singularity of the present plus finding agency in life and art.</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/013.m4a" length="8444978" type="audio/mp4"/>
+   <itunes:duration>1044</itunes:duration>
+   <itunes:episode>13</itunes:episode>
+  </item>
+  <item>
+   <title>Decoupling Generative Art with Philip Galanter</title>
+   <guid isPermaLink="false">lerandom-editorial-009</guid>
+   <link>https://www.lerandom.art/editorial/decoupling-generative-art-with-philip-galanter</link>
+   <pubDate>Thu, 24 Aug 2023 09:00:00 +0000</pubDate>
+   <description>Peter Bauman (Monk Antony) reflects on Philip Galanter&#x27;s classic 2003 definition of generative art before briefly speaking with the artist, Texas A&amp;M professor and theorist about the definition twenty years later.
+
+Dialogue thrives on a foundation of shared language. For both participants and non-participants in the generative art space, grasping the nuance of the discourse can be a challenge. We only amplify this challenge with imprecise language, especially concerning the definition of generative art itself.
+
+What do we mean when we say generative art? How do we determine whether a work is generative? Do we include non-digital practices? What is autonomy in art? What is an autonomous system? How we talk about and communicate the answers to these questions is vital to generative art&#x27;s long-term success and acceptance into the art historical canon. We have to understand ourselves before we expect even interested parties to understand us. To our great luck, the foundation to o</description>
+   <enclosure url="https://raw.githubusercontent.com/monkantony/lr-audio-1/main/009.m4a" length="5631635" type="audio/mp4"/>
+   <itunes:duration>688</itunes:duration>
+   <itunes:episode>9</itunes:episode>
+  </item>
+ </channel>
+</rss>
